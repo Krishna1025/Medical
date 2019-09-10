@@ -77,16 +77,16 @@
 		</releases>		
 	</pluginRepository>
   </pluginRepositories> 
-  <distributionManagement>
+ <distributionManagement>
     <repository>
         <id>central</id>
-        <name>EC2AMAZ-PUE6PGN-releases</name>
-        <url>http://54.193.106.223:8081/artifactory/Qentelli-poc</url>
+        <name>DESKTOP-AC3TNII-releases</name>
+        <url>http://localhost:8081/artifactory/Krishna</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>EC2AMAZ-PUE6PGN-snapshots</name>
-        <url>http://54.193.106.223:8081/artifactory/Qentelli-poc</url>
+        <name>DESKTOP-AC3TNII-snapshots</name>
+        <url>http://localhost:8081/artifactory/Krishna</url>
     </snapshotRepository>
 </distributionManagement>
 
